@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there I'm Polat Cebi👋
+I'm Interested in Python , Django and Javascript
+I’m currently learning Python , Django
 
 <!--
 **pol4k1/pol4k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
